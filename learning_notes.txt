@@ -1,0 +1,1 @@
+event --> Action Creator --> return an action --> action sent to all reducers --> corresponding reducer pick it to get the new state.
